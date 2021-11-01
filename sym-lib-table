@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SISH101DN-T1-GE3)(type Legacy)(uri ${KIPRJMOD}/SISH101DN-T1-GE3/SISH101DN-T1-GE3.lib)(options "")(descr ""))
+  (lib (name BQ24610RGER)(type Legacy)(uri ${KIPRJMOD}/BQ24610RGER/BQ24610RGER.lib)(options "")(descr ""))
+  (lib (name TPN1R603PL)(type Legacy)(uri ${KIPRJMOD}/TPN1R603PL/TPN1R603PL.lib)(options "")(descr ""))
+)

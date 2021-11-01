@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SISH101DN-T1-GE3)(type KiCad)(uri ${KIPRJMOD}/SISH101DN-T1-GE3)(options "")(descr ""))
+  (lib (name BQ24610RGER)(type KiCad)(uri ${KIPRJMOD}/BQ24610RGER/BQ24610RGER.pretty)(options "")(descr ""))
+  (lib (name TPN1R603PL)(type KiCad)(uri ${KIPRJMOD}/TPN1R603PL)(options "")(descr ""))
+)

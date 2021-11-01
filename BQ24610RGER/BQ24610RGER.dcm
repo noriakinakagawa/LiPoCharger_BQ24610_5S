@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ24610RGER
+D 1～6 セル・スタンドアロン同期整流降圧型バッテリ・チャージャ・コントローラ
+F https://www.tij.co.jp/jp/lit/ds/symlink/bq24610.pdf?ts=1616210843382&ref_url=https%253A%252F%252Fwww.tij.co.jp%252Fproduct%252Fjp%252FBQ24610
+$ENDCMP
+#
+#End Doc Library
